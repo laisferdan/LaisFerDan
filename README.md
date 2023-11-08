@@ -1,6 +1,6 @@
 <h1>Hello there! I'm Laís Fernandes Daniel</h1>
-<p>🔭 I’m a Back End Web Developer</p>
-<p>💼 I'm currently looking for a job</p>
+<p>🔭 I’m a Full Stack Developer</p>
+<p>💼 I'm currently working at Stefanini for Dell client </p>
 <p>📫 How to reach me:
   <a href="https://www.linkedin.com/in/laisfd/?locale=en_US" target="_blank">
    <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Lais&nbsp;Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
